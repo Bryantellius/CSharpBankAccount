@@ -1,0 +1,13 @@
+C:\Users\brbry_000\source\repos\OOPClassesCSharp\OOPClassesCSharp\bin\Debug\netcoreapp3.1\OOPClassesCSharp.exe
+C:\Users\brbry_000\source\repos\OOPClassesCSharp\OOPClassesCSharp\bin\Debug\netcoreapp3.1\OOPClassesCSharp.deps.json
+C:\Users\brbry_000\source\repos\OOPClassesCSharp\OOPClassesCSharp\bin\Debug\netcoreapp3.1\OOPClassesCSharp.runtimeconfig.json
+C:\Users\brbry_000\source\repos\OOPClassesCSharp\OOPClassesCSharp\bin\Debug\netcoreapp3.1\OOPClassesCSharp.runtimeconfig.dev.json
+C:\Users\brbry_000\source\repos\OOPClassesCSharp\OOPClassesCSharp\bin\Debug\netcoreapp3.1\OOPClassesCSharp.dll
+C:\Users\brbry_000\source\repos\OOPClassesCSharp\OOPClassesCSharp\bin\Debug\netcoreapp3.1\OOPClassesCSharp.pdb
+C:\Users\brbry_000\source\repos\OOPClassesCSharp\OOPClassesCSharp\obj\Debug\netcoreapp3.1\OOPClassesCSharp.AssemblyInfoInputs.cache
+C:\Users\brbry_000\source\repos\OOPClassesCSharp\OOPClassesCSharp\obj\Debug\netcoreapp3.1\OOPClassesCSharp.AssemblyInfo.cs
+C:\Users\brbry_000\source\repos\OOPClassesCSharp\OOPClassesCSharp\obj\Debug\netcoreapp3.1\OOPClassesCSharp.csproj.CoreCompileInputs.cache
+C:\Users\brbry_000\source\repos\OOPClassesCSharp\OOPClassesCSharp\obj\Debug\netcoreapp3.1\OOPClassesCSharp.dll
+C:\Users\brbry_000\source\repos\OOPClassesCSharp\OOPClassesCSharp\obj\Debug\netcoreapp3.1\OOPClassesCSharp.pdb
+C:\Users\brbry_000\source\repos\OOPClassesCSharp\OOPClassesCSharp\obj\Debug\netcoreapp3.1\OOPClassesCSharp.genruntimeconfig.cache
+C:\Users\brbry_000\source\repos\OOPClassesCSharp\OOPClassesCSharp\obj\Debug\netcoreapp3.1\OOPClassesCSharp.csprojAssemblyReference.cache
